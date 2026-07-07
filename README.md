@@ -59,8 +59,8 @@ While the machine learning and database architectures are highly optimized, the 
 ***
 
 **Built by Group**
-K Yashwanth Varma
-K Charan Reddy
-Umesh Singh B
-Rajkamal Prasad
+*K Yashwanth Varma
+*K Charan Reddy
+*Umesh Singh B
+*Rajkamal Prasad
 
